@@ -73,6 +73,8 @@ int main()
     return 0;
 }
 ```
+![image]CPP/01.PNG
+
 exercise1
 
 exercise1
