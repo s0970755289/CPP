@@ -73,7 +73,7 @@ int main()
     return 0;
 }
 ```
-![image](https://github.com/s0970755289/CPP/blob/master/01.PNG)
+![image](https://github.com/s0970755289/CPP/blob/master/02.PNG)
 ```
 exercise1
 
