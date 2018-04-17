@@ -1,5 +1,5 @@
 exercise1
-
+```
 #include <iostream>
 using namespace std;
 
@@ -32,7 +32,7 @@ int main()
 
   return 0;
 }
-
+```
 exercise1
 
 exercise1
