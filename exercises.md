@@ -1,4 +1,4 @@
-exercise1
+cpp work1
 ```
 #include <iostream>
 using namespace std;
