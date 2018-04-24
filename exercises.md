@@ -77,25 +77,25 @@ int main()
 ```
 ![image](https://github.com/s0970755289/CPP/blob/master/02.PNG)
 ```
-exercise1
+物件導向作業1
 ```
 #include <iostream>
 using namespace std;
 
-class Circle
+class Sphere
 {
 public:
   // The radius of this circle
   double radius;
 
   // Construct a default circle object
-  Circle()
+  Sphere()
   {
     radius = 1;
   }
 
   // Construct a circle object
-  Circle(double newRadius)
+  Sphere(double newRadius)
   {
     radius = newRadius;
   }
@@ -103,32 +103,32 @@ public:
   // Return the area of this circle
   double getArea()
   {
-    return radius * radius * 3.14159;
+    return radius * radius * radius * 4/3 * 3.14159;
   }
 };  // Must place a semicolon here
 
 int main()
 {
-  Circle circle1(1.0);
-  Circle circle2(25);
-  Circle circle3(125);
+  Sphere Sphere1(1.0);
+  Sphere Sphere2(25);
+  Sphere Sphere3(125);
 
-  cout << "The area of the circle of radius "
-    << circle1.radius << " is " << circle1.getArea() << endl;
-  cout << "The area of the circle of radius "
-    << circle2.radius << " is " << circle2.getArea() << endl;
-  cout << "The area of the circle of radius "
-    << circle3.radius << " is " << circle3.getArea() << endl;
+  cout << "The area of the Sphere of radius "
+    << Sphere1.radius << " is " << Sphere1.getArea() << endl;
+  cout << "The area of the Sphere of radius "
+    << Sphere2.radius << " is " << Sphere2.getArea() << endl;
+  cout << "The area of the Sphere of radius "
+    << Sphere3.radius << " is " << Sphere3.getArea() << endl;
 
   // Modify circle radius
-  circle2.radius = 100;
-  cout << "The area of the circle of radius "
-    << circle2.radius << " is " << circle2.getArea() << endl;
+  Sphere2.radius = 100;
+  cout << "The area of the Sphere of radius "
+    << Sphere2.radius << " is " << Sphere2.getArea() << endl;
 
   return 0;
 }
 ```
-
+![image](https://github.com/s0970755289/CPP/blob/master/diary/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91.PNG)
 ```
 exercise1
 
