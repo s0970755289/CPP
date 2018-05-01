@@ -78,7 +78,7 @@ int main()
 ![image](https://github.com/s0970755289/CPP/blob/master/02.PNG)
 ```
 物件導向作業1
-```
+
 #include <iostream>
 using namespace std;
 
@@ -127,7 +127,7 @@ int main()
 
   return 0;
 }
-```
+
 ![image](https://github.com/s0970755289/CPP/blob/master/diary/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91.PNG)
 ```
 exercise1
