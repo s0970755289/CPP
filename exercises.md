@@ -36,7 +36,7 @@ int main()
 ![image](https://github.com/s0970755289/CPP/blob/master/diary/%E6%93%B7%E5%8F%96.PNG)
 ```
 CPP WORK2
-```
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
