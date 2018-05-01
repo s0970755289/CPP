@@ -10,5 +10,5 @@ int main()
 	printf("%c,%d\n%c,%d",c1,c1,c2,c2);
 }
 ```
-![image](https://github.com/s0970755289/CPP/blob/master/pic1.PNG)
+![image](https://raw.githubusercontent.com/s0970755289/CPP/master/pic1.PNG)
 ```
