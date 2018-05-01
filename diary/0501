@@ -1,9 +1,6 @@
 
 
-```
 上課1
-```
-```
 
 
 #include<iostream>
@@ -18,11 +15,11 @@ int main()
 	return 0;
 }
 
-```
-```
+
+
 ![image](CPP/pic1.PNG)
-```
-```
+
+
 
 
 
