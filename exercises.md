@@ -127,7 +127,7 @@ int main()
 
   return 0;
 }
-
+```
 ![image](https://github.com/s0970755289/CPP/blob/master/diary/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91.PNG)
 ```
 exercise1
